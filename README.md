@@ -80,6 +80,8 @@ python cliente.py
 #Pruebas
 
 1. Registrar usuario:
+  <img width="616" height="315" alt="Image" src="https://github.com/user-attachments/assets/cf3f867c-3bd1-4700-92cd-1c02136ebdc1" />
+
   <img width="536" height="323" alt="Image" src="https://github.com/user-attachments/assets/efe4134b-458b-4f60-bee4-a5a9c5e260e3" />
 
 2. Login de Usuario:
@@ -89,4 +91,3 @@ python cliente.py
   <img width="536" height="330" alt="Image" src="https://github.com/user-attachments/assets/2784d5e2-5748-43f2-b27e-cd8c19e6239f" />
 
 4. Ver tareas:
-  <img width="616" height="315" alt="Image" src="https://github.com/user-attachments/assets/cf3f867c-3bd1-4700-92cd-1c02136ebdc1" />
